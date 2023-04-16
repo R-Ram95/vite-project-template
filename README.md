@@ -1,6 +1,6 @@
 ## Project Readme
 
-This project uses the Vite development server for development, testing and previewing. The project has dependencies on React and React DOM libraries and also includes several devDependencies that are essential for development and testing of the project.
+This repo is inteaded to be used a project starter. The project uses the Vite development server for development, testing and previewing. The project has dependencies on React and React DOM libraries and also includes several devDependencies that are essential for development and testing of the project.
 
 ### Scripts
 
